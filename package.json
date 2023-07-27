@@ -1,0 +1,10 @@
+{
+  "name": "slack-summarize",
+  "version": "0.0.1",
+  "description": "Summarize slack threads",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "rrobiso",
+  "license": "GNU GPL 3",
+  "devDependencies": {}
+}
