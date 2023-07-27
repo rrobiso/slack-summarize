@@ -1,0 +1,2 @@
+# slack-summarize
+Summarize threads!
